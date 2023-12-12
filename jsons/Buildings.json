@@ -1,13 +1,11 @@
-[
+9[
 	{
 		"name": "Prela Monument of Hope",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"culture": 1,
 		"isWonder": true,
-		"requiredTech": "Horseback Riding"
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", "
+		"requiredTech": "Rocketry"
 	},
 	{
 		"name": "Breeders",
