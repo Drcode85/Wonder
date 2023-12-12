@@ -1,10 +1,10 @@
-9[
+[
 	{
 		"name": "Prela Monument of Hope",
 		"greatPersonPoints": {"Great Engineer": 1},
 		"culture": 1,
 		"isWonder": true,
-		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", "
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", ["[-100]% construction time for [Remove Fallout] improvements"],
 		"requiredTech": "Rocketry"
 	},
 	{
