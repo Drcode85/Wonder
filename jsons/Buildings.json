@@ -5,6 +5,6 @@
 		"culture": 1,
 		"isWonder": true,
 		"requiredTech": "Rocketry"
-		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", ["[-100]% construction time for [Remove Fallout] improvements"],
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", "[-100]% construction time for [Remove Fallout] improvements"],
 	},
 ]
