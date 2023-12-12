@@ -4,9 +4,9 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"culture": 1,
 		"isWonder": true,
-		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", ["[-100]% construction time for [Remove Fallout] improvements"],
 		"requiredTech": "Rocketry"
-	},
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", ["[-100]% construction time for [Remove Fallout] improvements"],
+        },
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
