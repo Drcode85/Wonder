@@ -7,4 +7,13 @@
 		"requiredTech": "Rocketry"
 		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", "[-100]% construction time for [Remove Fallout] improvements"],
 	},
+	{
+		"name": "Mui'zonie V'iou"
+		"greatPersonPoints": {"Great Engineer": 1},
+		"production": 2,
+		"gold": 2,
+		"isWonder": true,
+		"requiredTech": "Engineering",
+		"uniques": , ["[+1 Food] from [{Snow}, {Tundra}] tiles [in thia city]"]
+	}
 ]
