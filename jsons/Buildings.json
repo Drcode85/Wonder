@@ -10,10 +10,20 @@
 	{
 		"name": "Mui'zonie V'iou"
 		"greatPersonPoints": {"Great Engineer": 1},
-		"food": 2,
-		"gold": 1,
+		"food": 1,
+		"gold": 2,
 		"isWonder": true,
 		"requiredTech": "Engineering",
 		"uniques": ["[+1 Food, +1 Gold] from [Snow] tiles [in this city]", "[+1 Food, +1 Gold] from [Tundra] tiles [in this city]"]
+	},
+	{
+			},
+	{
+		"name": "Victor Domina"
+		"greatPersonPoints": {"Great General": 1},
+		"culture": 2,
+		"isWonder": true,
+		"requiredTech": "Military Science",
+		"uniques":
 	}
 ]
