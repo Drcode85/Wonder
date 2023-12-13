@@ -10,10 +10,10 @@
 	{
 		"name": "Mui'zonie V'iou"
 		"greatPersonPoints": {"Great Engineer": 1},
-		"production": 2,
-		"gold": 2,
+		"food": 2,
+		"gold": 1,
 		"isWonder": true,
 		"requiredTech": "Engineering",
-		"uniques": ["[+1 Food] from [{Snow}, {Tundra}] tiles [in thia city]"]
+		"uniques": ["[+1 Food, +1 Gold] from [Snow] tiles [in this city]", "[+1 Food, +1 Gold] from [Tundra] tiles [in this city]"]
 	}
 ]
